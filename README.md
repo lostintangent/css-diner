@@ -2,6 +2,8 @@
 
 This repo provides an example of how Codespaces + [CodeSwing](https://aka.ms/codeswing) can enable a platform for interactive tutorials. It's a port of the amazing [CSS Diner](https://flukeout.github.io/) tutorial by [@flukeout](https://twitter.com/flukeout), which helps teach CSS by selecting dancing food-related items from a table!
 
+<img width="800px" src="https://user-images.githubusercontent.com/116461/102698943-01a0ae80-41f6-11eb-8b48-9283b5599042.png" />
+
 ## Getting Started
 
 1. Click the `Code > Open with Codespaces` button, and wait for the web editor to fully load
