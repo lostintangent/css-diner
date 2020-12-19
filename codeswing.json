@@ -1,0 +1,14 @@
+{
+  "scripts": [
+    "jquery"
+  ],
+  "styles": ["https://fonts.googleapis.com/css?family=Satisfy"],
+  "tutorial": "CSS Diner",
+  "readmeBehavior": "inputComment",
+  "layout": "splitLeft",
+  "input": {
+    "fileName": "selector.css",
+    "prompt": "<< Type the CSS selector that solves this challenge",
+    "completionMessage": "Awesome job! You're now a CSS expert."
+  }
+}

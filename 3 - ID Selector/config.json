@@ -1,0 +1,5 @@
+{
+    "doThis": "Select the fancy plate",
+    "selector" : "#fancy",
+    "boardMarkup": "<plate id='fancy'></plate><plate></plate><bento></bento>"
+}

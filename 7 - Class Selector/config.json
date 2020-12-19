@@ -1,0 +1,5 @@
+{
+    "doThis": "Select the small oranges",
+    "selector" : "orange.small",
+    "boardMarkup": " <apple></apple><apple class='small'></apple><bento><orange class='small'></orange></bento><plate><orange></orange></plate><plate><orange class='small'></orange></plate>"
+}

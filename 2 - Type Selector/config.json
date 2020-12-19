@@ -1,0 +1,5 @@
+{
+    "doThis": "Select the bentos",
+    "selector" : "bento",
+    "boardMarkup": "<bento></bento><plate></plate><bento></bento>"
+}

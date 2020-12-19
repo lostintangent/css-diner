@@ -1,0 +1,5 @@
+{
+    "doThis": "Select the apple on the plate",
+    "selector" : "plate apple",
+    "boardMarkup": "<bento></bento><plate><apple/></plate><apple></apple>"
+}

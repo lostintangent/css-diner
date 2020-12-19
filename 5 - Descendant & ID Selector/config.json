@@ -1,0 +1,5 @@
+{
+    "doThis": "Select the pickle on the fancy plate",
+    "selector" : "#fancy pickle",
+    "boardMarkup": "<bento><orange></orange></bento><plate id='fancy'><pickle></pickle></plate><plate><pickle></pickle></plate>"
+}
